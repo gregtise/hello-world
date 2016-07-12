@@ -1,0 +1,4 @@
+Creating a simple file to return the surface area of a cube
+Variables needed: side length
+Formula: SA = 6*(side length)^2
+
